@@ -1,1 +1,2 @@
-# daily-16
+# terkadang hal yang paling rentan bukan hanya kanrna misconfi atau bahkan exploit systems yg rumit ttpi pada apsek cenderung ke manusiany karna kebanyakan mansusia cenderung menuliskan sesuai yang ia suka dengan berkaitan dengan hal sensitif mereka kebanaykan mereka seperti itu menuliskan hak yg mudah di ingat seperti apa hewan peliharaan mu atau siapa anak mukebnaykan merka menulskan kredensial sensitif dengan hal hal seprti itu (kerentanan tidak hanya pada code yg rumit tpi terkadang jauh lebih mudah dengan informasi mereka yg terlakku terlihat) 
+-sepka
